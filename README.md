@@ -4,7 +4,7 @@ Este projeto tem como objetivo analisar dados gerais de uma campanha de marketin
 
 ---
 
-## 📁 Estrutura do Projeto a
+## 📁 Estrutura do Projeto:
 
 ```text
 marketing_campaign/
@@ -17,7 +17,7 @@ marketing_campaign/
 │
 ├── sql/
 │   ├── advanced_queries/        # Consultas SQL avançadas
-│   ├── optmization_examples/    # Exemplos de otimização em SQL
+│   ├── optimization_examples/    # Exemplos de otimização em SQL
 │   ├── simple_queries/          # Consultas SQL simples
 │   └── table_creation_scripts/  # Scripts de criação de tabelas
 │
