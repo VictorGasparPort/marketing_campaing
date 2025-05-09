@@ -6,21 +6,28 @@ Este projeto tem como objetivo analisar dados gerais de uma campanha de marketin
 
 ## 📁 Estrutura do Projeto a
 
-marketing_campaing/ │ 
-			├── data/ │
-				  ├── processed/ # Dados tratados │
-				  └── raw/ # Dados originais (não versionados)│
-			├── notebooks/ # Análises e tratamento de dados em Jupyter │ 
-			├── sql/ │
-				 ├── advanced_queries/ │
-				 ├── optmization_examples/ │
-				 ├── simple_queries/ │
-				 └── table_creation_scripts/ │ 
-			├── streamlit/ # Aplicações interativas em Streamlit │
-			├── .gitignore
-			├── requirements.md 
-			├── LICENSE
-		    └── README.md
+```text
+marketing_campaign/
+│
+├── data/
+│   ├── processed/               # Dados tratados
+│   └── raw/                     # Dados originais (não versionados)
+│
+├── notebooks/                   # Análises e tratamento de dados em Jupyter
+│
+├── sql/
+│   ├── advanced_queries/        # Consultas SQL avançadas
+│   ├── optmization_examples/    # Exemplos de otimização em SQL
+│   ├── simple_queries/          # Consultas SQL simples
+│   └── table_creation_scripts/  # Scripts de criação de tabelas
+│
+├── streamlit/                   # Aplicações interativas em Streamlit
+│
+├── .gitignore
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 ---
 
 ## 🔧 Tecnologias Utilizadas
